@@ -1,0 +1,13 @@
+.works {
+  display: flex;
+  margin: 20px;
+  justify-content: space-evenly;
+}
+
+.card {
+  margin: 20px;
+  background-color: rgba(240, 248, 255, 0.517);
+  width: 300px;
+  text-align: center;
+  padding: 16px;
+}
